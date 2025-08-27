@@ -60,6 +60,8 @@ project-folder/
 
 │── README.md
 
+│── .gitignore
+
 ---
 
 
@@ -117,6 +119,6 @@ Improve UI with CSS/Bootstrap/Tailwind.
 
 Yash Kashyap
 
-🌐 GitHub Profile - 
+🌐 GitHub Profile - https://github.com/yash120704
 
 
